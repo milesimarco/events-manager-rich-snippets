@@ -3,10 +3,10 @@ Contributors: Milmor
 Donate link: https://www.paypal.me/milesimarco
 Tags: events manager, structured data, schema, json-ld, seo
 Requires at least: 6.1
-Tested up to: 7.1
+Tested up to: 7.2
 Requires PHP: 7.0
 Requires Plugins: events-manager
-Stable tag: 1.1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,7 +36,7 @@ Open an event page in the [Rich Results Test](https://search.google.com/test/ric
 
 == Changelog ==
 
-= 1.1.0 2026-10-07 =
+= 1.1 2026-10-07 =
 * New: structured data on single event pages.
 * New: description, event status, attendance mode, online locations, ticket offers and organizer.
 * New: `emrs_event_data` and `emrs_events_args` filters.
@@ -44,7 +44,7 @@ Open an event page in the [Rich Results Test](https://search.google.com/test/ric
 * Fixed: dates now use the event timezone instead of a fixed +02:00 offset.
 * Fixed: all-day events use plain dates.
 * Fixed: PHP warning on recent PHP versions.
-* Improved: compatibility with Events Manager 7 and WordPress 7.1.
+* Improved: compatibility with Events Manager 7 and WordPress 7.2.
 
 = 1.0.1 2020-10-02 =
 * Minor improvements

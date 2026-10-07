@@ -3,7 +3,7 @@
 Plugin Name:       Events Manager Rich Snippets
 Plugin URI:        https://wordpress.org/plugins/events-manager-rich-snippets/
 Description:       Extends Events Manager WordPress plugin with rich snippets preview (Google structured data).
-Version:           1.1.0
+Version:           1.1
 Requires at least: 6.1
 Requires PHP:      7.0
 Requires Plugins:  events-manager
